@@ -1,4 +1,4 @@
-# Per-Vertex Colored OBJ Converter
+# Per-Vertex Colored OBJ Importer
 
 This script is used to import OBJ files with per-vertex coloring into Maya. It was originally build to import the OBJ output of the 3D Face Reconstruction Tool (<a href="https://github.com/AaronJackson/vrn">https://github.com/AaronJackson/vrn</a>). For OBJ files that do not have per-vertex coloring you can use Maya's built-in OBJ importer.
 
